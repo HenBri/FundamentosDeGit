@@ -1,57 +1,5 @@
 # Taller de Git & GitHub
 
-## Introducción
-
-Git es un sistema de control de versiones distribuido que permite gestionar y registrar los cambios realizados en los archivos de un proyecto. GitHub, por su parte, es una plataforma de alojamiento en la nube para proyectos que utilizan Git. Juntos, Git y GitHub forman una poderosa combinación para el desarrollo colaborativo y el control del código fuente. Este README ofrece una guía básica sobre los estados de los archivos en Git, el uso de commits, y cómo trabajar con repositorios remotos en GitHub.
-
----
-
-## Estados de los archivos en Git
-
-En Git, un archivo puede encontrarse en uno de los siguientes tres estados:
-
-| Estado     | Descripción                                                                 |
-|------------|------------------------------------------------------------------------------|
-| Modified   | El archivo ha sido creado, eliminado o contiene cambios que no han sido confirmados. |
-| Staged     | El archivo ha sido marcado como preparado para ser confirmado en el repositorio local. |
-| Committed  | El archivo ya está grabado en el repositorio local, mediante un *commit*.   |a
-
-Estos estados permiten a los desarrolladores tener un control detallado sobre qué cambios desean incluir en el historial del proyecto y cuáles no.
-
----
-
-## ¿Qué es un commit?
-
-Un **commit** es el mecanismo con el cual se registran los cambios dentro del repositorio. Se pueden entender como:
-
-- Fotografías del estado del repositorio en un momento dado.
-- Cada fotografía incluye información del autor, fecha, localización, entre otros.
-- Un punto de restauración, como en un videojuego, al que se puede volver en caso de error.
-
-Realizar commits con frecuencia ayuda a mantener un historial limpio y organizado, facilitando la colaboración y el seguimiento de errores.
-
----
-
-## ¿Cómo hago un commit?
-
-Para hacer un commit se deben seguir los siguientes pasos:
-
-1. Modificar los archivos que se desean cambiar.
-2. Añadir los archivos al área de preparación con `git add <archivo>`.
-3. Confirmar los cambios con `git commit -m "Mensaje descriptivo"`.
-
-> ⚠️ El mensaje del commit es **muy importante**: debe describir claramente qué cambios se realizaron y por qué.
-
----
-
-## ¿Qué es el HEAD?
-
-**HEAD** es un puntero que señala la posición actual en el historial de commits del repositorio. Puede entenderse como un "usted está aquí" en un mapa. Solo puede haber un HEAD activo a la vez.
-
-Esto es relevante al trabajar con ramas y al retroceder a versiones anteriores del proyecto.
-
----
-
 ## ¿Git y GitHub son lo mismo?
 
 | Git     | GitHub                                                              |
