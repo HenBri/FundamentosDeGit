@@ -1,5 +1,4 @@
-
-# Deshacer Cambios en Git
+# CLASS: Deshacer Cambios en Git
 
 ## Introducción
 
