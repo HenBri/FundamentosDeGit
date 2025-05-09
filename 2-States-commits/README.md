@@ -1,4 +1,4 @@
-# Taller de Git & GitHub: States y Commits
+# CLASS: States y Commits
 
 ## Introducción
 

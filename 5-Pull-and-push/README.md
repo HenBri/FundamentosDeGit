@@ -1,4 +1,4 @@
-# Taller de Git & GitHub
+# CLASS: Push & Pull
 
 ## Push, Pull y Pull Requests
 

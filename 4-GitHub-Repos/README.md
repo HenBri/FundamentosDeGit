@@ -1,4 +1,4 @@
-# Taller de Git & GitHub
+# CLASS: Git & GitHub
 
 ## ¿Git y GitHub son lo mismo?
 
