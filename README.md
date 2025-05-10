@@ -49,20 +49,25 @@ Este repositorio está diseñado para ser tu **compañero de aprendizaje**. Desd
 - Configuración de claves SSH.
 - Colaboración en proyectos.
 
-### 5. GitFlow
+- ### 5. Push y Pull
+- Sincronización con repositorios remotos
+- Contribución a proyectos
+
+  
+### 6. GitFlow
 - Ramas main/develop
 - Hotfixes y releases
 
-### 6. Buenas Prácticas
+### 7. Buenas Prácticas
 - Estructura de proyectos.
 - Uso de `.gitignore`.
 - Convenciones de ramas y tags.
 
-### 6. Deshacer Cambios
+### 8. Deshacer Cambios
 - Comandos: `reset`, `revert`, `checkout`, `stash`.
 - Recuperación de commits perdidos.
 
-### 7. Hooks, Alias y Trucos
+### 9. Hooks, Alias y Trucos
 - Automatización con Git Hooks.
 - Creación de alias para comandos frecuentes.
 - Trucos avanzados (`bisect`, `cherry-pick`).
