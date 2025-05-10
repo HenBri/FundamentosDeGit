@@ -13,14 +13,21 @@ Este repositorio está diseñado para ser tu **compañero de aprendizaje**. Desd
 | Sección  | Estado |
 |---------|--------|
 | 1. Introducción  | ✅ Actualizado |
-| 2. Estados y Commits  | ✅ Revisión pendiente |
-| 4. GitHub y Repositorios  | ✅ Revisión pendiente |
-| 5. Push y Pull  | ✅ Revisión pendiente |
+| 2. Estados y Commits  | ✅ Actualizado |
+| 3. Ramas, merge y conflictos | 🟡 Revisión pendiente |
+| 4. GitHub y Repositorios  | ✅ Actualizado |
+| 5. Push y Pull  | ✅ Actualizado |
+| 6. GitFlow  | 🟡 Revisión pendiente |
 | 7. Buenas Prácticas  | ✅ Actualizado |
 | 8. Deshacer Cambios  | ✅ Actualizado |
 | 9. Hooks y Alias  | ✅ Actualizado |
 
-**Historial reciente:** 15 commits en la última hora.
+---
+
+
+**Próximas actualizaciones:** 
+- Completar sección de GitFlow
+- Añadir ejemplos prácticos de resolución de conflictos
 
 ---
 
@@ -33,16 +40,20 @@ Este repositorio está diseñado para ser tu **compañero de aprendizaje**. Desd
 - Flujo de trabajo (Working Directory → Staging → Repository).
 - Buenas prácticas para mensajes de commit.
 
-### 3. GitHub y Repositorios
+### 3. Ramas, merge y conflictos
+- Creación y manejo de ramas
+- Estrategias para resolver conflictos
+
+### 4. GitHub y Repositorios
 - Creación de repositorios.
 - Configuración de claves SSH.
 - Colaboración en proyectos.
 
-### 4. Push, Pull y Pull Requests
-- Sincronización con repositorios remotos.
-- Contribución a proyectos open source.
+### 5. GitFlow
+- Ramas main/develop
+- Hotfixes y releases
 
-### 5. Buenas Prácticas
+### 6. Buenas Prácticas
 - Estructura de proyectos.
 - Uso de `.gitignore`.
 - Convenciones de ramas y tags.
